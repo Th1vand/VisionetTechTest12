@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionetTechTest", "VisionetTechTest\VisionetTechTest.csproj", "{255C572D-D1C0-4D8A-9535-466DF958301E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionetTechTest2", "VisionetTechTest2\VisionetTechTest2.csproj", "{65F00A73-1C64-456B-B4A6-FC6D05F9BD29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255C572D-D1C0-4D8A-9535-466DF958301E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255C572D-D1C0-4D8A-9535-466DF958301E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255C572D-D1C0-4D8A-9535-466DF958301E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255C572D-D1C0-4D8A-9535-466DF958301E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F00A73-1C64-456B-B4A6-FC6D05F9BD29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F00A73-1C64-456B-B4A6-FC6D05F9BD29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F00A73-1C64-456B-B4A6-FC6D05F9BD29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F00A73-1C64-456B-B4A6-FC6D05F9BD29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
